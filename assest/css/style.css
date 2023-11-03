@@ -100,7 +100,6 @@ a:visited{color: rgba(0, 0, 0,.7);}
 #container_cooler-water{
     display: flex;
     justify-content: flex-start;
-    /* justify-content: center; */
     align-items: center;
     flex-wrap: wrap;
     width: 100%;
@@ -109,7 +108,7 @@ a:visited{color: rgba(0, 0, 0,.7);}
 }
 .container_cooler-water{
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
     flex-wrap: wrap;
     gap: 2rem;
